@@ -1,5 +1,3 @@
-Type in the following lines of code
-
 #include <stdio.h>
 /**
  *main- Serves as the entry point for the program
